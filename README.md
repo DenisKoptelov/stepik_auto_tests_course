@@ -1,3 +1,3 @@
 # stepik_auto_tests_course
 Домашние задания к курсу по автоматизации тестирования на Селениум от Степик.
-[https://stepik.org/lesson/187065/](https://stepik.org/course/575/)
+(https://stepik.org/course/575/)
